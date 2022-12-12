@@ -21,7 +21,6 @@
 		7705069D187CE43400BA4635 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7705069B187CE43400BA4635 /* InfoPlist.strings */; };
 		770506E0187CF2B100BA4635 /* SFMWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 770506DF187CF2B100BA4635 /* SFMWindowController.m */; };
 		7716E40E1A4B5BBB00C52FB2 /* NSColor+ColorUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 7716E40D1A4B5BBB00C52FB2 /* NSColor+ColorUtils.m */; };
-		7724239128260EC0002EFCA8 /* nn-6877cd24400e.nnue in Resources */ = {isa = PBXBuildFile; fileRef = 7724239028260EC0002EFCA8 /* nn-6877cd24400e.nnue */; };
 		7724239328263210002EFCA8 /* stockfish-arm64 in Embed Helper Tools */ = {isa = PBXBuildFile; fileRef = 77C7D5E72555B7C9003B94D1 /* stockfish-arm64 */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		7724239428263212002EFCA8 /* stockfish-x86-64-vnni256 in Embed Helper Tools */ = {isa = PBXBuildFile; fileRef = 77C7D5E62555B7C9003B94D1 /* stockfish-x86-64-vnni256 */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		7724239528263214002EFCA8 /* stockfish-x86-64-bmi2 in Embed Helper Tools */ = {isa = PBXBuildFile; fileRef = BAB10AE224E789A400B270F2 /* stockfish-x86-64-bmi2 */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
@@ -85,6 +84,7 @@
 		77CA8B071889C499004402D2 /* SFMFormatterTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 77CA8B061889C499004402D2 /* SFMFormatterTest.m */; };
 		77E215BE188BA99900E935D0 /* Binaries.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = 77E215BD188BA99900E935D0 /* Binaries.entitlements */; };
 		77F42E73188B8405003A4AC6 /* SFMApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 77F42E72188B8405003A4AC6 /* SFMApplication.m */; };
+		888A2EA02947362300BB3590 /* nn-ad9b42354671.nnue in Resources */ = {isa = PBXBuildFile; fileRef = 888A2E9F2947362300BB3590 /* nn-ad9b42354671.nnue */; };
 		BB5FC6061F6D510500CDD57A /* SFMNode.m in Sources */ = {isa = PBXBuildFile; fileRef = BB5FC6051F6D510500CDD57A /* SFMNode.m */; };
 /* End PBXBuildFile section */
 
@@ -141,7 +141,6 @@
 		770506DF187CF2B100BA4635 /* SFMWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = SFMWindowController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		7716E40C1A4B5BBB00C52FB2 /* NSColor+ColorUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSColor+ColorUtils.h"; path = "Stockfish/NSColor+ColorUtils.h"; sourceTree = "<group>"; };
 		7716E40D1A4B5BBB00C52FB2 /* NSColor+ColorUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSColor+ColorUtils.m"; path = "Stockfish/NSColor+ColorUtils.m"; sourceTree = "<group>"; };
-		7724239028260EC0002EFCA8 /* nn-6877cd24400e.nnue */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nn-6877cd24400e.nnue"; sourceTree = "<group>"; };
 		7734B672189506F500FC4D79 /* SFMArrowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SFMArrowView.h; path = Stockfish/SFMArrowView.h; sourceTree = "<group>"; };
 		7734B673189506F500FC4D79 /* SFMArrowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SFMArrowView.m; path = Stockfish/SFMArrowView.m; sourceTree = "<group>"; };
 		7734B675189596B200FC4D79 /* NSBezierPath+Arrowhead.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSBezierPath+Arrowhead.h"; path = "Stockfish/NSBezierPath+Arrowhead.h"; sourceTree = "<group>"; };
@@ -251,6 +250,7 @@
 		77E215BD188BA99900E935D0 /* Binaries.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Binaries.entitlements; sourceTree = "<group>"; };
 		77F42E71188B8405003A4AC6 /* SFMApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFMApplication.h; sourceTree = "<group>"; };
 		77F42E72188B8405003A4AC6 /* SFMApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SFMApplication.m; sourceTree = "<group>"; };
+		888A2E9F2947362300BB3590 /* nn-ad9b42354671.nnue */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nn-ad9b42354671.nnue"; sourceTree = "<group>"; };
 		BAB10AE224E789A400B270F2 /* stockfish-x86-64-bmi2 */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "stockfish-x86-64-bmi2"; sourceTree = "<group>"; };
 		BAB10AE324E789A400B270F2 /* stockfish-x86-64-sse41-popcnt */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "stockfish-x86-64-sse41-popcnt"; sourceTree = "<group>"; };
 		BB5FC6041F6D510500CDD57A /* SFMNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SFMNode.h; path = Stockfish/SFMNode.h; sourceTree = "<group>"; };
@@ -501,7 +501,7 @@
 		7748D07D18868CA0009E021E /* Engine */ = {
 			isa = PBXGroup;
 			children = (
-				7724239028260EC0002EFCA8 /* nn-6877cd24400e.nnue */,
+				888A2E9F2947362300BB3590 /* nn-ad9b42354671.nnue */,
 				77C7D5E72555B7C9003B94D1 /* stockfish-arm64 */,
 				77C7D5E62555B7C9003B94D1 /* stockfish-x86-64-vnni256 */,
 				BAB10AE224E789A400B270F2 /* stockfish-x86-64-bmi2 */,
@@ -652,13 +652,13 @@
 				773DE97E18822DF8009156C3 /* bishop_w.pdf in Resources */,
 				773DE98318822DF8009156C3 /* pawn_b.pdf in Resources */,
 				773DE98218822DF8009156C3 /* knight_w.pdf in Resources */,
-				7724239128260EC0002EFCA8 /* nn-6877cd24400e.nnue in Resources */,
 				77050688187CE43400BA4635 /* SFMDocument.xib in Resources */,
 				773DE98118822DF8009156C3 /* knight_b.pdf in Resources */,
 				7705068D187CE43400BA4635 /* Images.xcassets in Resources */,
 				77E215BE188BA99900E935D0 /* Binaries.entitlements in Resources */,
 				7705067C187CE43300BA4635 /* InfoPlist.strings in Resources */,
 				773DE97F18822DF8009156C3 /* king_b.pdf in Resources */,
+				888A2EA02947362300BB3590 /* nn-ad9b42354671.nnue in Resources */,
 				77050682187CE43400BA4635 /* Credits.rtf in Resources */,
 				773DE97D18822DF8009156C3 /* bishop_b.pdf in Resources */,
 				773DE98518822DF8009156C3 /* queen_b.pdf in Resources */,
