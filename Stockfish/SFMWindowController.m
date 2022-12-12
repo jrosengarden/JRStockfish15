@@ -392,8 +392,8 @@ const CGFloat kMaxWeight = 1;
 - (void)uciEngine:(SFMUCIEngine *)engine didGetEngineName:(NSString *)name {
     
     //  uncomment one of the lines below
-    //  self.engineTextField.stringValue = name;                    // standard
-    self.engineTextField.stringValue = @"v15.1 (10-Dec-22)";    // **JR** Modification
+    self.engineTextField.stringValue = name;                    // standard
+    // self.engineTextField.stringValue = @"v15.1 (10-Dec-22)";    // **JR** Modification
 }
 
 - (void)uciEngine:(id)engine didGetInfoString:(NSString *)string {
