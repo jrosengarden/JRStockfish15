@@ -390,7 +390,10 @@ const CGFloat kMaxWeight = 1;
 //  **JR** 05/08/22 - Modify name to any string desired
 //  Leave as is and the version embedded in the actual SF engine will be used
 - (void)uciEngine:(SFMUCIEngine *)engine didGetEngineName:(NSString *)name {
-    self.engineTextField.stringValue = name;
+    
+    //  uncomment one of the lines below
+    //  self.engineTextField.stringValue = name;                    // standard
+    self.engineTextField.stringValue = @"v15.1 (10-Dec-22)";    // **JR** Modification
 }
 
 - (void)uciEngine:(id)engine didGetInfoString:(NSString *)string {
