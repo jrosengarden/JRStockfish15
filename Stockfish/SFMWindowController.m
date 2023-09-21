@@ -387,12 +387,12 @@ const CGFloat kMaxWeight = 1;
 
 #pragma mark - SFMUCIEngineDelegate
 
-//  **JR** 05/08/22 - Modify name to any string desired
+//  **JR** 07/02/23 - Modify name to any string desired
 //  Leave as is and the version embedded in the actual SF engine will be used
 - (void)uciEngine:(SFMUCIEngine *)engine didGetEngineName:(NSString *)name {
     
     //  uncomment one of the lines below
-    self.engineTextField.stringValue = name;                    // standard
+    self.engineTextField.stringValue = name;                        // standard
     // self.engineTextField.stringValue = @"v15.1 (10-Dec-22)";    // **JR** Modification
 }
 

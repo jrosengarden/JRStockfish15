@@ -58,9 +58,9 @@
         
         _boardColor = [NSColor colorWithRed:0.25 green:0.25 blue:0.25 alpha:1];
         
-        // modified by JR 05/05/22 (board change to shades of barbie-pink)
-        _lightSquareColor = [NSColor colorWithHex:0xf198c0 alpha:1];
-        _darkSquareColor = [NSColor colorWithHex:0xe85395 alpha:1];
+        // modified by **JR** 07/02/23 (board change to shades of dark red/light red)
+        _lightSquareColor = [NSColor colorWithHex:0xff9999 alpha:1];
+        _darkSquareColor = [NSColor colorWithHex:0xff0000 alpha:1];
         
         _fontColor = [NSColor whiteColor];
         _highlightColor = [NSColor colorWithSRGBRed:1 green:1 blue:0 alpha:0.7];
