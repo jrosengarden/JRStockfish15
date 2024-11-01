@@ -118,24 +118,24 @@
 /* Begin PBXFileReference section */
 		2763275926DB5DC40014A2D4 /* SFMArrowMove.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SFMArrowMove.h; path = Stockfish/SFMArrowMove.h; sourceTree = "<group>"; };
 		2763275A26DB5DC40014A2D4 /* SFMArrowMove.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = SFMArrowMove.m; path = Stockfish/SFMArrowMove.m; sourceTree = "<group>"; };
-		7705066E187CE43300BA4635 /* JRStockfish161.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRStockfish161.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7705066E187CE43300BA4635 /* JRStockfish17.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JRStockfish17.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77050671187CE43300BA4635 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		77050674187CE43300BA4635 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		77050675187CE43300BA4635 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		77050676187CE43300BA4635 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		77050679187CE43300BA4635 /* JRStockfish161-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JRStockfish161-Info.plist"; sourceTree = "<group>"; };
+		77050679187CE43300BA4635 /* JRStockfish17-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JRStockfish17-Info.plist"; sourceTree = "<group>"; };
 		7705067B187CE43300BA4635 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7705067D187CE43300BA4635 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		7705067F187CE43300BA4635 /* JRStockfish161-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JRStockfish161-Prefix.pch"; sourceTree = "<group>"; };
+		7705067F187CE43300BA4635 /* JRStockfish17-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JRStockfish17-Prefix.pch"; sourceTree = "<group>"; };
 		77050681187CE43400BA4635 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		77050683187CE43400BA4635 /* SFMDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SFMDocument.h; sourceTree = "<group>"; };
 		77050684187CE43400BA4635 /* SFMDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SFMDocument.m; sourceTree = "<group>"; };
 		77050687187CE43400BA4635 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SFMDocument.xib; sourceTree = "<group>"; };
 		7705068A187CE43400BA4635 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		7705068C187CE43400BA4635 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		77050692187CE43400BA4635 /* JRStockfish161Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JRStockfish161Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		77050692187CE43400BA4635 /* JRStockfish17Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JRStockfish17Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77050693187CE43400BA4635 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		7705069A187CE43400BA4635 /* JRStockfish161Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JRStockfish161Tests-Info.plist"; sourceTree = "<group>"; };
+		7705069A187CE43400BA4635 /* JRStockfish17Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JRStockfish17Tests-Info.plist"; sourceTree = "<group>"; };
 		7705069C187CE43400BA4635 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		770506DE187CF2B100BA4635 /* SFMWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SFMWindowController.h; sourceTree = "<group>"; };
 		770506DF187CF2B100BA4635 /* SFMWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = SFMWindowController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
@@ -302,8 +302,8 @@
 		7705066F187CE43300BA4635 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7705066E187CE43300BA4635 /* JRStockfish161.app */,
-				77050692187CE43400BA4635 /* JRStockfish161Tests.xctest */,
+				7705066E187CE43300BA4635 /* JRStockfish17.app */,
+				77050692187CE43400BA4635 /* JRStockfish17Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -352,10 +352,10 @@
 		77050678187CE43300BA4635 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				77050679187CE43300BA4635 /* JRStockfish161-Info.plist */,
+				77050679187CE43300BA4635 /* JRStockfish17-Info.plist */,
 				7705067A187CE43300BA4635 /* InfoPlist.strings */,
 				7705067D187CE43300BA4635 /* main.m */,
-				7705067F187CE43300BA4635 /* JRStockfish161-Prefix.pch */,
+				7705067F187CE43300BA4635 /* JRStockfish17-Prefix.pch */,
 				77050680187CE43400BA4635 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
@@ -378,7 +378,7 @@
 		77050699187CE43400BA4635 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7705069A187CE43400BA4635 /* JRStockfish161Tests-Info.plist */,
+				7705069A187CE43400BA4635 /* JRStockfish17Tests-Info.plist */,
 				7705069B187CE43400BA4635 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -557,9 +557,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7705066D187CE43300BA4635 /* JRStockfish161 */ = {
+		7705066D187CE43300BA4635 /* JRStockfish17 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 770506A2187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish161" */;
+			buildConfigurationList = 770506A2187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish17" */;
 			buildPhases = (
 				7705066A187CE43300BA4635 /* Sources */,
 				7705066B187CE43300BA4635 /* Frameworks */,
@@ -571,16 +571,16 @@
 			);
 			dependencies = (
 			);
-			name = JRStockfish161;
+			name = JRStockfish17;
 			packageProductDependencies = (
 			);
 			productName = Stockfish;
-			productReference = 7705066E187CE43300BA4635 /* JRStockfish161.app */;
+			productReference = 7705066E187CE43300BA4635 /* JRStockfish17.app */;
 			productType = "com.apple.product-type.application";
 		};
-		77050691187CE43400BA4635 /* JRStockfish161Tests */ = {
+		77050691187CE43400BA4635 /* JRStockfish17Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 770506A5187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish161Tests" */;
+			buildConfigurationList = 770506A5187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish17Tests" */;
 			buildPhases = (
 				7705068E187CE43400BA4635 /* Sources */,
 				7705068F187CE43400BA4635 /* Frameworks */,
@@ -591,9 +591,9 @@
 			dependencies = (
 				77050697187CE43400BA4635 /* PBXTargetDependency */,
 			);
-			name = JRStockfish161Tests;
+			name = JRStockfish17Tests;
 			productName = StockfishTests;
-			productReference = 77050692187CE43400BA4635 /* JRStockfish161Tests.xctest */;
+			productReference = 77050692187CE43400BA4635 /* JRStockfish17Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -622,7 +622,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 77050669187CE43300BA4635 /* Build configuration list for PBXProject "JRStockfish161" */;
+			buildConfigurationList = 77050669187CE43300BA4635 /* Build configuration list for PBXProject "JRStockfish17" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -637,8 +637,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7705066D187CE43300BA4635 /* JRStockfish161 */,
-				77050691187CE43400BA4635 /* JRStockfish161Tests */,
+				7705066D187CE43300BA4635 /* JRStockfish17 */,
+				77050691187CE43400BA4635 /* JRStockfish17Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -769,7 +769,7 @@
 /* Begin PBXTargetDependency section */
 		77050697187CE43400BA4635 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7705066D187CE43300BA4635 /* JRStockfish161 */;
+			target = 7705066D187CE43300BA4635 /* JRStockfish17 */;
 			targetProxy = 77050696187CE43400BA4635 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -945,7 +945,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = "40-JR w/Stockfish Engine 16";
+				CURRENT_PROJECT_VERSION = "41-JR w/Stockfish Engine 17";
 				DEVELOPMENT_TEAM = 8KW4KF38JB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -953,8 +953,8 @@
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Stockfish/JRStockfish161-Prefix.pch";
-				INFOPLIST_FILE = "Stockfish/JRStockfish161-Info.plist";
+				GCC_PREFIX_HEADER = "Stockfish/JRStockfish17-Prefix.pch";
+				INFOPLIST_FILE = "Stockfish/JRStockfish17-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -985,7 +985,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = "40-JR w/Stockfish Engine 16";
+				CURRENT_PROJECT_VERSION = "41-JR w/Stockfish Engine 17";
 				DEVELOPMENT_TEAM = 8KW4KF38JB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -993,8 +993,8 @@
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Stockfish/JRStockfish161-Prefix.pch";
-				INFOPLIST_FILE = "Stockfish/JRStockfish161-Info.plist";
+				GCC_PREFIX_HEADER = "Stockfish/JRStockfish17-Prefix.pch";
+				INFOPLIST_FILE = "Stockfish/JRStockfish17-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -1032,7 +1032,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "StockfishTests/JRStockfish161Tests-Info.plist";
+				INFOPLIST_FILE = "StockfishTests/JRStockfish17Tests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.daylenyang.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
@@ -1054,7 +1054,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Stockfish/Stockfish-Prefix.pch";
-				INFOPLIST_FILE = "StockfishTests/JRStockfish161Tests-Info.plist";
+				INFOPLIST_FILE = "StockfishTests/JRStockfish17Tests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.daylenyang.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
@@ -1125,7 +1125,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "";
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = "40-JR w/Stockfish Engine 16";
+				CURRENT_PROJECT_VERSION = "41-JR w/Stockfish Engine 17";
 				DEVELOPMENT_TEAM = 8KW4KF38JB;
 				ENABLE_HARDENED_RUNTIME = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1133,8 +1133,8 @@
 					"$(PROJECT_DIR)",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Stockfish/JRStockfish161-Prefix.pch";
-				INFOPLIST_FILE = "Stockfish/JRStockfish161-Info.plist";
+				GCC_PREFIX_HEADER = "Stockfish/JRStockfish17-Prefix.pch";
+				INFOPLIST_FILE = "Stockfish/JRStockfish17-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -1173,7 +1173,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "StockfishTests/JRStockfish161Tests-Info.plist";
+				INFOPLIST_FILE = "StockfishTests/JRStockfish17Tests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.daylenyang.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
@@ -1185,7 +1185,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		77050669187CE43300BA4635 /* Build configuration list for PBXProject "JRStockfish161" */ = {
+		77050669187CE43300BA4635 /* Build configuration list for PBXProject "JRStockfish17" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				770506A0187CE43400BA4635 /* Debug */,
@@ -1195,7 +1195,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		770506A2187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish161" */ = {
+		770506A2187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish17" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				770506A3187CE43400BA4635 /* Debug */,
@@ -1205,7 +1205,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		770506A5187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish161Tests" */ = {
+		770506A5187CE43400BA4635 /* Build configuration list for PBXNativeTarget "JRStockfish17Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				770506A6187CE43400BA4635 /* Debug */,

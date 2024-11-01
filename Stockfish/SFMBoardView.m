@@ -58,9 +58,9 @@
         
         _boardColor = [NSColor colorWithRed:0.25 green:0.25 blue:0.25 alpha:1];
         
-        // modified by **JR** 07/02/23 (board change to shades of dark red/light red)
-        _lightSquareColor = [NSColor colorWithHex:0xff9999 alpha:1];
-        _darkSquareColor = [NSColor colorWithHex:0xff0000 alpha:1];
+        // modified by **JR** 10/13/24 (board change to shades of Lime Green)
+        _lightSquareColor = [NSColor colorWithHex:0x98fb98 alpha:1];
+        _darkSquareColor = [NSColor colorWithHex:0x00a300 alpha:1];
         
         _fontColor = [NSColor whiteColor];
         _highlightColor = [NSColor colorWithSRGBRed:1 green:1 blue:0 alpha:0.7];
@@ -234,7 +234,7 @@
                      sideLength:(CGFloat)sideLength
 {
     int letter = sq % 8;
-    int number = sq / 8;
+    int number = (uint32_t)sq / 8;          // Mod by **JR** 12/16/23 added cast to unit32_t
     CGFloat l, t;
     if (self.boardIsFlipped) {
         l = left + (7 - letter) * sideLength;
