@@ -6,6 +6,10 @@
 //  Copyright (c) 2014 Daylen Yang. All rights reserved.
 //
 
+// **JR**
+// Renamed Git Repo from Stockfish15 to Stockfish17
+// Updated & Pushed local git repo 
+
 #import "SFMApplication.h"
 #import "SFMDocument.h"
 #import "SFMPGNFile.h"
