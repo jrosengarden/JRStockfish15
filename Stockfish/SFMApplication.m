@@ -8,7 +8,10 @@
 
 // **JR**
 // Renamed Git Repo from Stockfish15 to Stockfish17
-// Updated & Pushed local git repo 
+// updated local repo to point to new, renamed, repo with
+//          git remote set-url origin https://github.com/jrosengarden/JRStockfish17.git
+// confirmed above repo name updates worked by doing a final commit
+// Updated & Pushed local git repo
 
 #import "SFMApplication.h"
 #import "SFMDocument.h"
